@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Em biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
     messDesc: 'Chị làm người yêu em nhé',
     btnAccept: 'Okiiiii lun ❤',
-    messLink: 'youtube.com/watch?v=KyXKGurjX_4'
+    messLink: 'http://youtube.com/watch?v=KyXKGurjX_4'
    }
