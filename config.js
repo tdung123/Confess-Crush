@@ -15,5 +15,6 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu ❤❤❤',
     mess: 'Em biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
     messDesc: 'Chị làm người yêu em nhé',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun ❤',
+    messLink: 'youtube.com/watch?v=KyXKGurjX_4'
    }
